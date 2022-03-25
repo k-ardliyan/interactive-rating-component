@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Repository](https://your-solution-url.com)
-- Live Site URL: [Live Demo](https://your-live-site-url.com)
+- Solution URL: [Repository](https://github.com/k-ardliyan/interactive-rating-component/)
+- Live Site URL: [Live Demo](https://interactive-rating-component-delta.vercel.app/)
 
 ## My process
 
